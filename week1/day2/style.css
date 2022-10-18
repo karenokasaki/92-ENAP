@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+/* CSS PARA TELAS PEQUENAS */
+.container {
+  margin: 5px;
+  border: 1px solid;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.container > div {
+  width: 100px;
+  height: 150px;
+  border: 1px solid red;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav {
+  height: 70px;
+  background-color: gray;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+
+/* CSS PARA TELAS MÉDIAS */
+@media all and (min-width: 700px) and (max-width: 1000px) {
+  /* TUDO ISSO VAI ACONTECER DEPOIS DOS 700PX */
+  nav {
+    height: 140px;
+    font-size: xx-large;
+    font-weight: 500;
+    background-color: black;
+  }
+
+  .container > div {
+    width: 90px;
+    height: 90px;
+  }
+
+  .container {
+    min-height: 200px;
+    justify-content: center;
+  }
+}
+
+@media all and (min-width: 1000px) {
+  nav {
+    display: none;
+    background-color: chocolate;
+  }
+}
