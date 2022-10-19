@@ -122,5 +122,15 @@ for (let i = 0; i < alunos.length; i++) {
 
 console.log(contador);
 
-const hacker1 = "Karen Okasaki";
-console.log(`The driver's name is ${hacker1}`);
+/* 
+COLINHA DE OPERADORES JS
+= ATRIBUIÇÃO (quando vai atribuir valor a algo)
+== igual a
+=== estritamente igual
+!= não é o mesmo valor
+!== não é o mesmo valor nem tipo
+“>” maior que
+“<” menor que
+“>=” maior ou igual
+“<=” menor ou igual
+*/
