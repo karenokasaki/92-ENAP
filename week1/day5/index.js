@@ -278,4 +278,24 @@ const wordsCount = [
   "truth",
   "disobedience",
   "matter",
+  "ironhack",
 ];
+
+// CORREÇÃO DO LAB DE QUINTA FEIRA - ITERAÇÃO 7
+function howManyTimes(array, word) {
+  let contador = 0;
+
+  if (!array.length) {
+    return 0;
+  }
+
+  array.forEach((element) => {
+    if (element === word) {
+      contador++;
+    }
+  });
+
+  return contador;
+}
+
+console.log(howManyTimes(wordsCount, "matter"));
