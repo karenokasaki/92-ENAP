@@ -1,6 +1,6 @@
 /* arquivo responsável pela estilização da página */
 
-/* SELETORES */
+/* SELETORES 
 .nomeDaClasse {
 
 }
@@ -11,4 +11,17 @@
 
 h1 {
 
+}
+
+.list > li {
+
+}
+*/
+
+.itemPar {
+  background-color: grey;
+}
+
+.itemImpar {
+  background-color: rgb(68, 68, 68);
 }

@@ -9,7 +9,7 @@
   </head>
   <body>
     <main>
-      <h1>CALCULADORA IRONHACK</h1>
+      <h1 id="title">CALCULADORA IRONHACK</h1>
 
       <div class="container">
         <h2>SOMAR</h2>
@@ -17,15 +17,23 @@
         +
         <input type="number" id="input2" />
         <button id="btn-soma">=</button>
+        <span id="total"></span>
       </div>
 
-      <ul>
-        <li class="item">Annielli</li>
-        <li class="item">Marcos</li>
-        <li class="item">Gabriel</li>
-        <li class="item">Augusto</li>
-        <li class="item">Vitor</li>
-      </ul>
+      <div>
+        <label>Escreva sua tarefa:</label>
+        <input type="text" placeholder="ex: Estudar dom!" id="inputTask" />
+        <button id="btn-task">Salvar tarefa!</button>
+
+        <ol id="tasks"></ol>
+      </div>
+
+      <div>
+        <h1>Minhas tecnologias preferidas</h1>
+        <ul id="list-tec">
+
+        </ul>
+      </div>
     </main>
 
     <!-- LINKAR SCRIPTS NO FINAL DO BODY -->
