@@ -1,8 +1,5 @@
 function ContadorDom() {
-  
-    
-    
-    let contador = 0;
+  let contador = 0;
 
   function add() {
     contador++;

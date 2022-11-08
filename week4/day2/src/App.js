@@ -1,7 +1,7 @@
 import "./App.css";
 import ContadorDom from "./components/ContadorDom";
 import ContadorUseState from "./components/ContadorUseState";
-
+import MovieList from "./components/MovieList";
 
 // useState -> hook -> uma função DO react
 
@@ -12,6 +12,7 @@ function App() {
 
       <ContadorDom />
       <ContadorUseState />
+      <MovieList  />
     </div>
   );
 }
