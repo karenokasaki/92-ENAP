@@ -2,22 +2,28 @@ import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import { useState } from "react";
 
-function FormInput() {
+function FormInput({ posts, setPosts }) {
   const [form, setForm] = useState({
-    about: "react",
+    about: "",
     difficulty: "",
     message: "",
   });
 
   function handleChange(e) {
-    /* console.log(e.target); // -> o input que eu estou escrevendo
-    console.log(e.target.name); // -> o nome do input 
-    console.log(e.target.value); // -> o valor do input */
-
     setForm({ ...form, [e.target.name]: e.target.value });
   }
 
-  function handleSubmit(e) {}
+  function handleSubmit(e) {
+    e.preventDefault();
+    
+    setPosts([...posts, form]);
+
+    setForm({
+      about: "",
+      difficulty: "0",
+      message: "",
+    });
+  }
 
   console.log(form);
 
@@ -36,6 +42,7 @@ function FormInput() {
 
         <Form.Label>Nível de Dificuldade</Form.Label>
         <Form.Select name="difficulty" onChange={handleChange}>
+          <option value="0">Selecione uma opção</option>
           <option value="1">1</option>
           <option value="2">2</option>
           <option value="3">3</option>
