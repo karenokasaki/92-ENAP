@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "student": "Tibério & Luiz",
+    "projectName": "Discover Word",
+    "projectUrl": "https://tiberiodamaso.github.io/DiscoverWord",
+    "github": "https://github.com/tiberiodamaso/DiscoverWord ",
+    "about": "Aumentar o seu vocabulário de inglês tentando advinhar uma palavra sorteada de um dicionário",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "2",
+    "student": "Anderson moro & Gabriel Stroligo ",
+    "projectName": "Bang",
+    "projectUrl": "https://stroligo.github.io/bang/",
+    "github": "https://github.com/stroligo/bang",
+    "about": "UM JOGO NO VELHO OESTE ONDE O SEU OBJETIVO É SOBREVIVER! No Velho Oeste os Foras da Lei caçam o Xerife e o Renegado age em silêncio, pronto para dar o tiro final. E logo as balas começam a voar. Você está disposto a se sacrificar pelo Xerife? Ou aceitaria ter que mata-lo por uma boa recompensa?",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "3",
+    "student": "Anderson toma & Arash",
+    "projectName": "Flash Card",
+    "projectUrl": "https://andersontoma92wdptoct2022.github.io/Flashcard/",
+    "github": "https://github.com/andersontoma92WDPTOCT2022/Flashcard",
+    "about": "The game starts with a ideogram(kanji) and you must select the option that represents its meaning. You must complete the rounds without losing all of your lives. ",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "4",
+    "student": "Annielli & Bruno",
+    "projectName": "Quiz TDAH",
+    "projectUrl": "https://brunoprestesap.github.io/project-quiz/",
+    "github": "https://github.com/brunoprestesap/project-quiz.git",
+    "about": "Esse teste se baseia no Manual Diagnóstico e Estatístico de Transtornos Mentais. DSM-5. Alinhado com a American Psychiatric Association (APA). A análise dos resultados é válida para pessoas com mais de 17 anos.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "5",
+    "student": "Augusto Solfa",
+    "projectName": "Miner",
+    "projectUrl": "https://miner.solfalabs.com/",
+    "github": "https://github.com/augustosolfa/ironhack-minergame",
+    "about": "Reveal all squares without an egg to win. If you breake an egg, you lose the game.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "6",
+    "student": "Michela",
+    "projectName": "Genius",
+    "projectUrl": "https://michelacamboim.github.io/GeniusGame/",
+    "github": "https://github.com/MichelaCamboim/GeniusGame",
+    "about": "Genius era um brinquedo muito popular na década de 1980 distribuído pela Brinquedos Estrela[1]. O brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "7",
+    "student": "Márcio Silva",
+    "projectName": "Quiz Jazz",
+    "projectUrl": "https://msdrum.github.io/jazz-topics-quizz/",
+    "github": "https://github.com/msdrum/jazz-topics-quizz.git",
+    "about": "Jazz é uma manifestação artístico-musical originária de comunidades de Nova Orleães, nos Estados Unidos. Tal manifestação teria surgido por volta do final do século XIX na região de Nova Orleães, tendo origem na cultura popular e na criatividade das comunidades negras que ali viviam, um de seus espaços de desenvolvimento mais importantes.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "8",
+    "student": "Priscila",
+    "projectName": "Melhor de Cinco",
+    "projectUrl": "https://francopri.github.io/MelhorDeCinco",
+    "github": "https://github.com/francopri/MelhorDeCinco",
+    "about": "O Melhor de 5 é um jogo de cartas para 4 jogadores (1 pessoa e 3 computadores) no qual a cada rodada o jogador com a carta mais alta ganha 1 ponto. Os competidores jogam no máximo 5 rodadas com o jogo podendo terminar antes caso um dos jogadores obtenha uma vantagem que não possa ser superada ou igualada (Jogo terminando em 3 ou 4 rodadas, por exemplo).",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "9",
+    "student": "Rodrigo Monclair",
+    "projectName": "Soccer Bet",
+    "projectUrl": "https://rodrigomonclair.github.io/SoccerBet92/",
+    "github": "https://github.com/RodrigoMonclair/SoccerBet92",
+    "about": "Aposte em quem vai ganhar a partida!",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "10",
+    "student": "André",
+    "projectName": "Crazy F1 GPS",
+    "projectUrl": "https://aclicks.github.io/crazyf1gps/",
+    "github": "https://github.com/aclicks/crazyf1gps",
+    "about": "The game is quiz with 3 questions to be answered, and you start with 25 points. If you miss an answer you lose 10 points and go to the next question. Each question has 4 tips that can be used but deduct points also. This code can be remanufactured to any theme just modifying the array that contains the questions, answers and tips, and also the images and sounds. The code permits to alter the number of questions also. This theme was choosen to entertain F1 spectators with some jokes and knowledge.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "11",
+    "student": "Vitor",
+    "projectName": "Mindless Game",
+    "projectUrl": "https://cmsvtr.github.io/mindless-game/",
+    "github": "https://github.com/cmsvtr/mindless-game",
+    "about": "The game is set in an office environment and the green and black aesthetics was purposeful in referencing outdated work-flows. The main objetive of the game is to click on the correct clerk, depending on the `form` presented to the player. The clerk that should receive each form is redefined randomly at each round, and the player has a few seconds to memorize the designated clerk. The player must not make more than 10 mistakes, nor allow too many forms to pile up. In between levels, there is an intermission screen and a mini-game appears where the player competes with a random selecting bot in tic-tac-toe.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "12",
+    "student": "Marcos Royer",
+    "projectName": "Minesweeper",
+    "projectUrl": "https://marcosroyer.github.io/Minesweeper/",
+    "github": "https://github.com/marcosroyer/Minesweeper",
+    "about": "A ideia do jogo é simular um campo minado. O objetivo do jogador (e, portanto, modo de vitória) é identificar em quais quadrados estão as minas. Cada partida começa com um clique aleatório do jogador em um dos quadrados e é garantido que no local escolhido e nos quadrados próximos não haverá uma mina. Os quadrados já revelados podem ter informação sobre sua vizinhança. Isto é, se o conteúdo revelado for o número 1, é certo que ao redor deste quadrado existe somente uma mina. Se o conteúdo for o número 2, duas minas. A lógica permanece para os demais números. Utilize o botão esquerdo do mouse para revelar o conteúdo de um quadrado. Utilize o botão direito do mouse para marcar o local com uma bandeira indicativa de existência de uma mina. Dois cliques com o botão esquerdo podem ser utilizados para revelar todos os quadrados adjacentes, desde que haja o número de bandeiras seja idêntico ao seu conteúdo. Ou seja, se o quadrado tem o número 2 e há duas bandeiras ao redor, os outros 6 quadrados serão revelados. Se existir uma mina (erro de lógica do jogador), ela será disparada e o jogador perde.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "13",
+    "student": "Ewerton",
+    "projectName": "Iron Train",
+    "projectUrl": "https://ewertonvaz.github.io/iron-train-enap/",
+    "github": "https://github.com/ewertonvaz/iron-train-enap",
+    "about": "Você pode movimentar o trem utilizando o mouse para clicar nas setas que aparecem na tela, ou as setas do teclado. No teclado a barra de espaço aciona o botão PAUSE / PLAY. O botão com o autofalante serve pra ligar / desligar a música do jogo. Os efeitos sonoros não são desativados, somente a música. O objetivo do jogo é recolher todas as moedas e com isso passar para a próxima fase. As moedas valem 10 pontos e sua localização é gerada aleatoriamente no início de cada fase. Após recolher todas as moedas o jogador passa para a próxima fase, o trem cresce no tamanho de um vagão e a sua velocidade aumenta. A cada 100 pontos conseguidos também fazem com que seja aumentada a velocidade do trem. O jogo acba quando você colidir com as bordas do tabuleiro, ou com os vagões do próprio trem.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "14",
+    "student": "Rodrigo S",
+    "projectName": "Wordle PTB",
+    "projectUrl": "https://rsotolani.github.io/Wordle-PTB/",
+    "github": "https://github.com/rsotolani/Wordle-PTB",
+    "about": "1 palavra secreta. 5 letras. 6 tentativas. Palavras em português e sem acento. A cada palpite, dicas:",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "15",
+    "student": "Roberto Malherios",
+    "projectName": "Iron Nave",
+    "projectUrl": "https://robertomalheiros.github.io/ProjetoJogo/",
+    "github": "https://github.com/robertomalheiros/ProjetoJogo",
+    "about": "O jogador deverá com sua nave desviar de asteroides!",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "16",
+    "student": "Karen Ortiz",
+    "projectName": "Show Do Milhão",
+    "projectUrl": "https://kaluize.github.io/Project_1_Show_do_Milhao/",
+    "github": "https://github.com/kaluize/Project_1_Show_do_Milhao/",
+    "about": "Show do Milhão (inicialmente Jogo do Milhão) é um game show brasileiro de perguntas e respostas exibido pelo SBT, que concede um prêmio máximo de um milhão de reais. A atração era inicialmente apresentada por Silvio Santos, e alcançou grande sucesso de audiência no primeiro período em que esteve no ar, entre 7 de novembro de 1999 e 23 de outubro de 2003.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "17",
+    "student": "Sergio Francalino",
+    "projectName": "Jokenpo",
+    "projectUrl": "https://sergiofrancalino.github.io/JankenponGame-Enap/",
+    "github": "https://github.com/sergiofrancalino/JankenponGame-Enap",
+    "about": "Surgiu na China, mas ficou muito popular no Japão (San sukumi ken). É (teoricamente) um jogo infantil, mas é muito jogado por adultos em tomada de decisão. Existe inclusive um campeonato mundial, organizado pela “World Rock Paper Scissors Society” (WRPS).",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "18",
+    "student": "Demetrius",
+    "projectName": "Par ou Ímpar",
+    "projectUrl": "https://demetriusjayme.github.io/demetrius-game-project",
+    "github": "https://github.com/DemetriusJayme/demetrius-game-project.git",
+    "about": "O Jogador 1 deverá informar o seu nome. O Jogador 2 deverá informar o seu nome. O Jogador 1 deverá informar a quantidade de dedos que será apresentada. O Jogador 2 deverá informar a quantidade de dedos que será apresentada. O Jogador 1 deverá informar a sua escolha: par ou impar. O Vencedor será informado logo após bem como todas as informações do jogo.",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "19",
+    "student": "Guilherme",
+    "projectName": "Quiz IronHack",
+    "projectUrl": "http://sdhufg.me/Projeto1-quiz/",
+    "github": "https://github.com/guiolive/projeto1 ",
+    "about": "Quiz sobre a IronHack, melhor escola de programação do Brasil!",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "20",
+    "student": "Ana Claudia",
+    "projectName": "Segurança de Senhas",
+    "projectUrl": "https://anaaleixo.github.io/Projeto-Senhas/",
+    "github": "https://github.com/AnaAleixo/Projeto-Senhas",
+    "about": "Sabia se suas senhas estão realmente protegidas",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "21",
+    "student": "Angélica ",
+    "projectName": "Quiz ",
+    "projectUrl": "https://angelicarg.github.io/Projeto-modulo-1",
+    "github": "https://github.com/angelicarg/Projeto-modulo-1",
+    "about": "Aprendendo Português como L2 Brincando",
+    "module": "1",
+    "score": "10"
+  },
+  {
+    "id": "22",
+    "student": "Ramon",
+    "projectName": "Super Suporte",
+    "projectUrl": "https://ramontcruz.github.io/superSuporte2/",
+    "github": "https://github.com/ramontcruz/superSuporte2",
+    "about": "Atenda todos os clientes para se tornar o melhor estagiário!",
+    "module": "1",
+    "score": "10"
+  }
+]
