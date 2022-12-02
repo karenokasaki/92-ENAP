@@ -12,6 +12,6 @@ const orderSchema = new Schema(
   { timestamps: true }
 );
 
-const OrderModel = model("Order", orderSchema)
+const OrderModel = model("Order", orderSchema);
 
-export default OrderModel
+export default OrderModel;
