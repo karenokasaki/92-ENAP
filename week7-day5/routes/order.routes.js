@@ -8,6 +8,18 @@ orderRoute.post("/create-order", async (req, res) => {
   try {
     const newOrder = await OrderModel.create(req.body);
 
+    console.log(newOrder);
+
+    //newOrder.products => [ com todos os produtos dentro ] -> [ {productID: "", "quantity: ""}]
+    newOrder.products.forEach(async (element) => {
+      await ProductModel.findByIdAndUpdate(
+        element.productID,
+        {
+          $push: { orders: newOrder._id },
+        },
+        { runValidators: true }
+      );
+    });
 
     return res.status(201).json(newOrder);
   } catch (error) {
@@ -25,6 +37,7 @@ orderRoute.get("/order/:idOrder", async (req, res) => {
       populate: {
         path: "productID",
         model: "Product",
+        select: "name price -_id",
       },
     });
 
@@ -34,7 +47,7 @@ orderRoute.get("/order/:idOrder", async (req, res) => {
       total += element.productID.price * element.quantity;
     });
 
-    return res.status(200).json({ order, total: total });
+    return res.status(200).json({ order, total });
   } catch (error) {
     console.log(error);
     return res.status(400).json(error.errors);
