@@ -6,10 +6,17 @@ function HomePage() {
   const [isLoading, setIsLoading] = useState(true);
   const [reload, setReload] = useState(true);
 
+  const [products, setProducts] = useState([]);
+
   useEffect(() => {
     async function fetchUsers() {
       try {
         const response = await axios.get("https://ironrest.cyclic.app/enap92");
+
+        const response2 = await axios.get(
+          "http://localhost:8080/products/all-product"
+        );
+        setProducts(response2.data);
         setUsers(response.data);
         setIsLoading(false);
       } catch (error) {
@@ -30,6 +37,8 @@ function HomePage() {
   }
 
   console.log(users);
+
+  console.log(products);
 
   return (
     <div>
